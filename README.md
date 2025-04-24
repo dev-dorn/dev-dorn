@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dev-dorn
 - 👀 I’m passionate about coding and building innovatuve solutions
-- 🌱 I’m currently my skills in API's ,AWS and backend development
+- 🌱 I’m currently enhancing my skills in API's ,AWS and backend development
 - 💞️ Open to collaborate on impactful projects
 - 📫 Reach me at berrymundia@gmail.com
 - 😄 Pronouns: He/Him
