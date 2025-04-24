@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @dev-dorn
-- 👀 I’m interested in things coding
-- 🌱 I’m currently learning webdevelopment
-- 💞️ I’m looking to collaborate on cool projects
-- 📫 How to reach me freggymwangi@gmail.com
-- 😄 Pronouns: I
-- ⚡ Fun fact: cool as f
+- 👀 I’m passionate about coding and building innovatuve solutions
+- 🌱 I’m currently my skills in API's ,AWS and backend development
+- 💞️ Open to collaborate on impactful projects
+- 📫 Reach me at berrymundia@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Always striving to stay cool under pressure
 # 📊 GitHub Stats:
  
 ## 🌐 Socials:
