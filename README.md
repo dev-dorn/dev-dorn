@@ -1,22 +1,41 @@
-Hey there, I'm Fredrick Mundia 👋
-Solutions Architect & Full-Stack Developer building software that actually solves problems. I combine cloud architecture, AI integration, and full-stack development to create solutions that make work easier—not just pretty interfaces.
-What I'm Building With
-2026 Focus: Enterprise solutions leveraging cloud infrastructure, AI capabilities, and robust full-stack architectures
-Current Stack: C# & .NET, Flutter, Next.js, AWS cloud services
-Approach: Cloud-first architecture + AI integration + cross-platform development
-Philosophy: Build solutions, not just websites
-Let's Build Together
-Looking for collaborators on projects that solve real business problems. If you're working on enterprise solutions, AI-powered applications, or innovative cloud architectures, let's connect and build something meaningful.
-Open to: Solution architecture consulting, full-stack development partnerships, AI integration projects
-Reach me: berrymundia@gmail.com
-Quick Facts
+# Hey there, I'm Fredrick Mundia 👋
 
-🏗️ Solutions architect who codes—I design systems and build them too
-🤖 Integrating AI into real-world applications, not just experimenting with prompts
-🌉 Bridging mobile (Flutter) and web (Next.js) to deliver the best experience on every platform
-⚡ 2026 mission: Create 10 production-ready solutions that businesses actually use
-🎯 I stay cool under pressure—architecting resilient systems is what I do
-## 🌐 Socials:
+Solutions Architect & Full-Stack Developer building software that actually solves problems. I combine cloud architecture, AI integration, and full-stack development to create solutions that make work easier—not just pretty interfaces.
+
+## What I'm Building With
+
+**2026 Focus:** Enterprise solutions leveraging cloud infrastructure, AI capabilities, and robust full-stack architectures  
+**Current Stack:** C# & .NET, Flutter, Next.js, AWS cloud services  
+**Approach:** Cloud-first architecture + AI integration + cross-platform development  
+**Philosophy:** Build solutions, not just websites
+
+## Let's Build Together
+
+Looking for collaborators on projects that solve real business problems. If you're working on enterprise solutions, AI-powered applications, or innovative cloud architectures, let's connect and build something meaningful.
+
+**Open to:** Solution architecture consulting, full-stack development partnerships, AI integration projects  
+**Reach me:** [berrymundia@gmail.com](mailto:berrymundia@gmail.com)  
+**LinkedIn:** [Add your LinkedIn URL]
+
+## Quick Facts
+
+- 🏗️ Solutions architect who codes—I design systems and build them too
+- 🤖 Integrating AI into real-world applications, not just experimenting with prompts
+- 🌉 Bridging mobile (Flutter) and web (Next.js) to deliver the best experience on every platform
+- ⚡ 2026 mission: Create 10 production-ready solutions that businesses actually use
+- 🎯 I stay cool under pressure—architecting resilient systems is what I do
+
+---
+
+## 📊 GitHub Stats
+
+![Fredrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+
+---
+
+*Building solutions that matter | Cloud + AI + Full-Stack | Open for collaboration*
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@f.r.e.dd.i.e) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/fredrick-mundia-938833226/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:berrymundia@gmail.com) 
 
 # 💻 Tech Stack:
