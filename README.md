@@ -29,7 +29,7 @@ Looking for collaborators on projects that solve real business problems. If you'
 
 ## 📊 GitHub Stats
 
-![Fredrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev&show_icons=true&theme=radical)
+![Fredrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-dorn&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-dorn&layout=compact&theme=radical)
 
